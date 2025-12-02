@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'REUZ BOT☄'; 
+const BotName = 'VINZZ BOT☄'; 
 const instagram = 'https://instagram.com/akbarpkyaa'; 
 const telegram = 'https://t.me/reuzzz'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
@@ -655,4 +655,5 @@ if (text.includes("!alay")){
 
 
 })
+
 
